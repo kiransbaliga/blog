@@ -2,38 +2,26 @@
   "headerNavigation": [
     {
       "name": "Home",
-      "link": "/",
+      "link": "/blog",
       "external": false
     },
-    {
-      "name": "About",
-      "link": "/about-us",
-      "external": false
-    },
-    {
-      "name": "Getting started",
-      "link": "/category/getting-started",
-      "external": false
-    },
+   
+   
     {
       "name": "More",
       "link": "#",
       "children": [
         {
-          "name": "Theme Repository",
-          "link": "https://www.github.com/jammeryhq/gridsome-starter-liebling",
+          "name": "About me",
+          "link": "https://kiransbaliga.me",
           "external": true
         },
         {
           "name": "Gridsome Docs",
           "link": "https://www.gridsome.org/docs",
           "external": true
-        },
-         {
-           "name": "Internal Page ( About )",
-           "link": "/about-us",
-           "external": false
-         }
+        }
+         
       ]
     }
   ],

@@ -1,24 +1,7 @@
 <template>
   <div class="w-full md:w-1/2 lg:w-1/3 px-4 my-4">
     <div class="post-card border-gray-200 dark:border-gray-900 bg-white dark:bg-black rounded-lg hover:shadow-xl z-100 dark:bg-gray-900" :id="record.id">
-      <div
-        class="post-card-author pt-4 pl-4"
-        v-tooltip="{classes:'card-author-tooltip', content:this.authors, placement:'right'}"
-      >
-        <g-link
-          :to="record.author[0].path"
-          @mouseover="showTooltip = true"
-          @mouseleave="showTooltip = false"
-          @mouseover.native="showTooltip = true"
-          @mouseleave.native="showTooltip = false"
-        >
-          <g-image
-            :src="record.author[0].image"
-            :alt="record.author[0].name"
-            class="w-8 h-8 rounded-full bg-gray-200 border-2 border-white"
-          />
-        </g-link>
-      </div>
+      
 
       <g-link :to="record.path" class="post-card-image-link">
         <div v-if="record.featured" class="absolute top-0 right-0 pr-4 pt-4 z-10">

@@ -21,24 +21,7 @@
                 </span>
               </div>
 
-              <div
-                class="post-card-author pt-4 mt-6 pl-10"
-                v-tooltip="{classes:'card-author-tooltip', content:authors(edge.node), placement:'right'}"
-              >
-                <g-link
-                  :to="edge.node.author[0].path"
-                  @mouseover="showTooltip = true"
-                  @mouseleave="showTooltip = false"
-                  @mouseover.native="showTooltip = true"
-                  @mouseleave.native="showTooltip = false"
-                >
-                  <g-image
-                    :src="edge.node.author[0].image"
-                    :alt="edge.node.author[0].name"
-                    class="w-10 h-10 rounded-full bg-gray-200 border-2 border-white"
-                  />
-                </g-link>
-              </div>
+             
 
               <div class="post-card-content">
                 <p class="tracking-wide font-semibold mt-3">

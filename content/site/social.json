@@ -1,18 +1,19 @@
 {
     "social" : [
         {
-            "name": "Facebook",
-            "link": "#",
-            "icon": "facebook-square"
+            "name": "Twitter",
+            "link": "https://twitter.com/kiransbaliga",
+            "icon": "twitter"
+            
         },
         {
             "name": "Instagram",
-            "link": "#",
+            "link": "https://www.instagram.com/kiransbaliga/",
             "icon": "instagram"
         },
         {
             "name": "Github",
-            "link": "#",
+            "link": "https://github.com/kiransbaliga",
             "icon": "github"
         }
     ]

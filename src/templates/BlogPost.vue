@@ -66,17 +66,17 @@
                         class="font-light tracking-wider leading-relaxed py-4"
                       >{{ $page.blog.author[0].bio }}</div>
                       <div class>
-                        <a
-                          :href="$page.blog.author[0].facebook"
+                       <a
+                          href="https://www.instagram.com/kiransbaliga/"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"
                         >
-                          <font-awesome :icon="['fab', 'facebook']" />
+                          <font-awesome :icon="['fab', 'instagram']" />
                         </a>
                         &nbsp;
                         <a
-                          :href="$page.blog.author[0].twitter"
+                          href="https://kiransbaliga.me"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"
@@ -85,7 +85,7 @@
                         </a>
                         &nbsp;
                         <a
-                          :href="$page.blog.author[0].linkedin"
+                          href="https://www.linkedin.com/in/kiransbaliga"
                           target="_blank"
                           rel="noopener noreferrer"
                           class="hover:text-blue-500"

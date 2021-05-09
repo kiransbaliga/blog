@@ -3,11 +3,7 @@
     <div class="container mx-auto py-16">
       <div class="mb-4">
         <p>
-          Copyright {{ new Date().getFullYear() }} by {{ $static.metadata.siteName}} &middot; Powered by
-          <a
-            href="https://www.gridsome.org"
-            target="_blank"
-          >Gridsome</a>
+          Copyright {{ new Date().getFullYear() }} 
         </p>
       </div>
       <div class="mb-4">
@@ -20,23 +16,7 @@
         </ul>
       </div>
       <div class="mb-4">
-        <ul class="list-reset flex justify-center">
-          <li v-for="navItem in $static.metadata.footerNavigation" :key="navItem.name" class="px-4">
-            <g-link
-              :to="navItem.link"
-              :title="navItem.name"
-              v-if="navItem.external!=true"
-              class="hover:text-blue-500"
-            >{{ navItem.name}}</g-link>
-            <a
-              :href="navItem.link"
-              target="_blank"
-              :title="navItem.name"
-              v-if="navItem.external==true"
-              class="hover:text-blue-500 "
-            >{{ navItem.name}}</a>
-          </li>
-        </ul>
+        
       </div>
     </div>
   </div>
