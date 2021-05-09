@@ -6,7 +6,7 @@
 
 module.exports = {
   
-  siteName: 'Kiran\'s Blog',
+  siteName: 'Imagix-Online',
   siteDescription: "Now that you are here, check my blog out",
   plugins: [
     {
