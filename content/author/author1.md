@@ -5,6 +5,7 @@ bio: Primis vitae mauris turpis ornare libero odio torquent vehicula proin conse
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
+instagram: https://www.instagram.com
 image: ./images/author1.png
 cover: ./cover/benjamin-voros-Lxq_TyMMHtQ-unsplash.jpg
 ---
