@@ -17,7 +17,7 @@
         {
           "name": "Getting Started",
           "link": "/category/getting-started",
-          "external":
+          "external":false
         }
       ]
     },
