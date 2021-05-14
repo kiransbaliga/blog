@@ -5,24 +5,28 @@
       "link": "/blog",
       "external": false
     },
+    {
+      "name": "Category",
+      "link": "#",
+      "children":[
+        {
+          "name": "Random",
+          "link": "/category/random",
+          "external":false
+        },
+        {
+          "name": "Getting Started",
+          "link": "/category/getting-started",
+          "external":false
+        }
+      ]
+    },
    
    
     {
-      "name": "More",
-      "link": "#",
-      "children": [
-        {
-          "name": "About me",
-          "link": "https://kiransbaliga.me",
-          "external": true
-        },
-        {
-          "name": "Gridsome Docs",
-          "link": "https://www.gridsome.org/docs",
-          "external": true
-        }
-         
-      ]
+      "name": "About me",
+      "link": "https://kiransbaliga.me",
+      "external": true
     }
   ],
   "footerNavigation": [
