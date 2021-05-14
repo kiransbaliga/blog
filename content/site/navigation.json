@@ -17,16 +17,28 @@
         {
           "name": "Getting Started",
           "link": "/category/getting-started",
-          "external":false
+          "external":
         }
       ]
     },
    
    
     {
-      "name": "About me",
-      "link": "https://kiransbaliga.me",
-      "external": true
+      "name": "More",
+      "link": "#",
+      "children": [
+        {
+          "name": "About me",
+          "link": "https://kiransbaliga.me",
+          "external": true
+        },
+        {
+          "name": "Gridsome",
+          "link": "https://www.gridsome.org/",
+          "external": true
+        }
+         
+      ]
     }
   ],
   "footerNavigation": [
