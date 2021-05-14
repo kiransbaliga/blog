@@ -4393,6 +4393,7 @@ input[type=submit].btn-block {
     .navbar-expand-lg .navbar-collapse {
         display: -ms-flexbox !important;
         display: flex !important;
+        flex-direction: row-reverse;
         -ms-flex-preferred-size: auto;
         flex-basis: auto
     }

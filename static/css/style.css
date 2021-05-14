@@ -1,17 +1,4 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: SPONDON IT
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: HostHub Construction 
-@Developed By: Naim Lasker
-Author E-mail: naimlasker@gmail.com
-
-=====================================================================*/
 /*----------------------------------------------------*/
 /*font Variables*/
 /*Color Variables*/
@@ -96,12 +83,14 @@ button:focus {
   line-height: 40px;
   margin-left: 10%;
   display: block;
-  border-bottom: 1px solid #0003 !important;
   border-radius: 0px;
-  color: gray !important;
+  color: black !important;
+}
+.header_area .navbar .nav .nav-item .nav-link:hover{
+  color: #4458dc !important;
 }
 .home_banner_area .banner_inner .banner_content .primary_btn {
-  margin-right: 10px !important;
+  margin-right: 5px !important;
 }
 /*----------------------------------------------------*/
 .section_gap {
@@ -3571,3 +3560,19 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+.navbar_fixed{
+  position: fixed;
+  animation: navbar_transition 200ms ease forwards;
+  background-color: white !important;
+  z-index: 1;
+  width: 100%;
+}
+
+@keyframes navbar_transition{
+  from{
+    top: -500px;
+  }
+  to{
+    top: 0;
+  }
+}

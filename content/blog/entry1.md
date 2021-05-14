@@ -1,62 +1,66 @@
 ---
-title: Troes retardat
-tags: tag1, tag2
-category: Digital
-excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
-image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
-image_caption: Photo by Josh Spires on Unsplash
+title: Locked up in the Lockdown?
+tags: Lockdown, Bored, Hope
+category: Random
+excerpt: Well!, like most of you guys, I too thought that I will be back within 2 weeks when we were sent home due to covid in March 2020.Like you....
+created: 2021-05-12
+image: ./images/entry1-bg.jpg
 author: author2
 featured: true
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+Well!, like most of you guys, I too thought that I will be back within 2 weeks when we were sent home due to *covid-19* in March 2020. Who would have thought all this would happen. The situation briefly got better and then the elections came and now we are worser than ever.
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
 
-## Eleis celeberrimus loci ait falsa infelix tuoque
+Sorry to be a bummer there, but it's the facts. Anyways I am not going to write about that, I am going to write how the lockdown time affected me, my family and my friends.
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
 
-## Facundis quid
 
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
+> `print('hello world!')` 
 
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
 
-## Et capienda Peneia
 
-*Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
-moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
-solet suum mihi penates quae. Cecidere *deo agger infantem* indetonsusque ipsum;
-ova formasque cornu et pectora [voce oculos](http://www.tibibene.io/iter.html),
-prodis pariterque sacra finibus, Sabinae. Fugarant fuerat, famam ait toto imas
-sorte pectora, est et, procubuit sua Appenninigenae habes postquam.
+The above line of code is the only reason why I still manage to survive without breaking down. Sure there were sometimes when, let's be honest here, at some point we were all this close to breakdown. It was too much,wasn't it?
 
-## Quoque aut gurgite aliquis igneus
 
-Spatiosa ferax iam sis ex quae peperit iacentes, grates rogat quae senserat nec
-nec verba harenas inplent. Per dum necis in in versus quin loquendi latens;
-inde. **Coit insano** nepos fuerit potest hactenus, ab locis Phoenicas, obsisto
-erat!
+I spent the first few months just resting doing nothing significant. Thankfully the *covid-19* rates were so low around my place, I thought finally I would take some rest. The past years had been tough. The Entrance, the exams, **JEE Advanced**, ughh... that's whole another story there.
 
-> Nec uterum Aurorae petentes abstulit. Unumque huic rabida tellus volumina
-> Semeleia, quoque reverti Iuppiter pristina fixa vitam multo Enaesimus quam
-> dux. Sua **damus** decipere, ut **obortas** nomen sine vestrae vita.
 
-Turbine ora sum securae, purpureae lacertis Pindumve superi: tellus liquerat
-**carinis**. Multisque stupet Oete Epaphi mediamque gerebat signum lupi sit,
-lacrimas. Tumidi fassusque hosti, deus [vixque desint
-dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
-tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
-vestigia est neu ignis in **illa mirantur agilis** densior.
+Like I said, I spent the first few months watching movies and played my old games. It felt so good going back to **San Andreas**, The only map which I know Byheart ;). I spent some days learning some cool video editing techniques, made some videos and all.
+
+
+They said there will be online classes but there weren't much of that happening. So yeah I was relaxed finally in few years.
+I felt like I needed that break. Of course I didn't understand the gravity of the situation the we were in. But we did however always stayed at our home, we barely went out. I never even went to my hostel roomie's house even though it was quite near. So yeah, I was locked up in my house and I couldn't go anywhere!
+
+
+ Even though in this online scenario I made a lot of friends, I got to know lots about the guys from my class than I knew before. It was during this time that I found my two best friends who shared my same wavelength. 
+
+
+> ## that one late night on September
+
+
+In a blink, it was september and during one of the night, I layed awake in my bed, unable to sleep. That's when the thought actually hit me! **What am I doing?** *I didn't like where my brain was headed at*. Anyways there goes my sleep. 
+
+
+Many things passed by my mind. Soon I was listing out all my regrets. One of my greatest regrets was not being able to spend time with my friends. Before *covid-19* normally, I would run back to my hostel after classes since I would have some game downloaded ready to be played. I thought that I would never get much chance to spent time playing games and watching movies but I could always spent time with my friends when ever I wanted. 
+
+
+After cursing myself for a few minutes, came my next regret and then came another, it continued....
+
+That night I made some decisions. I promised my self I would be more productive, I would start learning things, being more serious and all.
+And yes to my surprise I have been able to hold things up pretty well. I learnt many things like Machine Learning, Flutter, JS, Got much better in python. Epic games were giving away many games. With my limited 1.5 gb perday internet, I downloaded GTA5. And yeah it took me 2 months to download but it was worth it. Whenever I felt stressed I would open gta5 and I would drive to a peaceful place like a beach and start shooting every one. That was very fun.
+
+
+> # IEEE 
+
+
+Well IEEE MACE SB played a very important role in my life. I received so much opportunities. So when they sent Call for Excecom positions, I wanted to be a much bigger part so I applied and got the position and the chairperson of Computer Society IEEE SBC MACE. I used to be shy, to be more exact - I was socially awkward and I am not exactly a people person. But this year I got to confront my fears. I took video editing class and also a python workshop. And now I like teaching. Seriously I am still considering to going to teaching field after this. As the Chairperson of CS MACE, I had the chance to bring many opportunities to others. 
+
+
+
+Since I loved coding so much, me along with my friends, started working on projects and entered few competitions. I started off and built a portfolio, which you can see it [here](https://kiransbaliga.me). I then built a blog using Gridsome, which you are reading from right now. I am currently working on a spotify alternative called Moosik, where you can hear music ad free with all the recomendations and AI as spotify. Once I was confident enough, I started to work freelance with [Athul](https:athuljohn). We worked on a few projects and it was awesome. Some wanted us to build a very complicated app almost for free, while some were legit opportunities.
+
+
+>So my point is...
+
+You may have seen many guys posting on social medias about their hundred days challenge and everything. Some where inspired by them and they came forward and took the challenge, But I am sure,atleast one of you guys may be wondering what all that is, or might be intimidated because you might feel that you don't know any of these things and all. What I am trying to say is that **it's never too late**. I wanted to come up with a different approach. Instead of spamming up my whatsapp status, I chose to write about this, mostly because I like to write but also since I hope that I might give someone the right motivation that they needed...     *sneham-parakkatte* 😉
