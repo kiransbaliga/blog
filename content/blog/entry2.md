@@ -1,14 +1,17 @@
 ---
+
 title: Getting Started with Github!
 tags: coding, Github
 category: Getting started
 excerpt: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git....
 created: 2021-05-20
 image: ./images/gh-img.jpg
+
 author: author2
 featured: true
 ---
 > ## What is Git?
+
 
 Simply put, **Git** is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 
@@ -73,3 +76,4 @@ I might seem complex but after a while you will get in a hang of it!
 Let me know if you have any queries!
 
 ## *carpe diem*
+
