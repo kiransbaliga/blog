@@ -4,7 +4,7 @@ tags: coding, Github
 category: Coding
 excerpt: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.... 
 created: 2019-03-20
-image: https://starvingsocrates.files.wordpress.com/2020/04/github_case_study_header_new.jpg
+image: ./images/gh2\.jpg
 image_caption: Photo by Marco Marques on Unsplash
 author: author2
 ---
@@ -17,7 +17,7 @@ For eg:- When you collaborate with others there might be multiple changes in a s
 
  **GitHub** is a provider of Internet hosting for software development and version control using **Git**. It offers the distributed version control and source code management functionality of **Git**, plus its own features.
 
-![img](https://github.blog/wp-content/uploads/2018/06/40890924-4bad5ce0-6732-11e8-9648-192aa71f0830.png?fit=2405%2C1265) 
+![img](./images/gh1.png) 
 
 > # Getting Started
 

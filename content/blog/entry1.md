@@ -5,6 +5,7 @@ category: Random
 excerpt: Well!, like most of you guys, I too thought that I will be back within 2 weeks when we were sent home due to covid in March 2020.Like you....
 created: 2021-05-12
 image: ./images/entry1-bg.jpg
+image_caption: yolo
 author: author2
 featured: true
 ---
