@@ -1,90 +1,94 @@
 ---
-title: Et aequora inanes fortuna non dextra
-tags: tag2, tag3
+title: Getting Started With Machine Learning from Scratch!
+tags: AI, ml
 category: Digital
-excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
-created: 2019-03-20
-image: ./images/marco-marques-dJ_Zl5LpPto-unsplash.jpg
-image_caption: Photo by Marco Marques on Unsplash
+excerpt: Machine learning is the idea of a machine or a computer doing a task without being..
+created: 2021-05-20
+image: ./images/ml-bg.png
 author: author2
+featured: true
 ---
 
-## Concretam matris protinus populos
+Before we begin, Let's start with definitions and applications of Machine learning.
 
-Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
-utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
-**ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
-fictilibus* Iasone valens tura breve!
+> ## What is Machine Learning?
 
-```js
-if (dvr_web) {
-    packet.soundRpc.targetNas(promText.peripheral.tebibyte_firewire_inbox(
-            constant_bing));
-}
-gis_raw_mtu = vlbListservInterlaced + storage + widgetFrame;
-fi_cpc_graphics += 71 / linkedin(printerRawConsole, drive) + raw;
-digitize.rdramCcdMotion += sector_wizard;
+Machine learning is the idea of a machine or a computer doing a task without being programmed to do so, But instead, it learns and adapts to improve itself.
+In this process, with the help of datasets, a machine is able to find patterns and predict outcomes with considerable accuracy as we train the machine learning model.
+
+>## What are its Applications?
+
+The applications are basically limitless, but here are some ML models that you use in your daily life:-
+- Google Search Engine: The recommendation that pops when you type a single character is the result of immense training of ML models for the convenience  for us users So that we are able to search and access results almost instantly
+- Recommendation Systems like in Netflix:  We like to Netflix and chill, but ever wondered how they recommend movies to you? Yes, it's Machine learning!
+- Image Recognition
+- Email Spam and Malware filtering! and much more...
+
+
+>## How to Get Started?
+To get started with Machine learning basic programming knowledge is required.
+If you don't have experiences don't worry! It's not that hard and you can start anytime!
+Here are the basic requirements:-
+
+- Basic Python programming skills : You can start learning python [here](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- Python basics on NumPy, pandas and matplotlib modules.
+
+> Numpy
+
+- NumPy is the fundamental package for scientific computing in Python. You can learn the basics of NumPy [here.](https://www.w3schools.com/python/numpy/numpy_getting_started.asp).
+
+> Pandas
+
+- Pandas is a python module for data analysis and manipulation. Learn the basics of Pandas[here.](https://www.w3schools.com/python/numpy_getting_started.asp).
+
+> MatPlotLib
+
+- matplotlib is a python module for visualizing the data. Learn basics of matplotlib [here.](https://www.w3schools.com/python/matplotlib_intro.asp)
+
+> Jupyter
+
+Now that we are all set up and we are ready to start.
+first, we need to install the required modules in python for ML.
+installing Jupyter notebook :-
+
+The Jupyter Notebook is an open-source web application that allows you to create and
+Share documents that contain live code, equations, visualizations and narrative text
+        
+```
+python -m pip install jupyterlab
+```
+```
+python -m pip install notebook
+```  
+
+> Installing Sci-Kit Learn
+
+Scikitlearn is a python module that contains various complex machine learning algorithms.
+to install just write the following command in the command line:-
+
+```
+python -m pip install scikit-learn
 ```
 
-## Cupido est
+and that's it! Just wait for some moment and installation will be done!
 
-Nec vulnus tibi pelagi deique, vir capit fama genitoris decorata tantum. Non est
-faciunt, fide nec induxerat fugit, consueta, Laiades, parvo. Imperium virgine
-arcus testantur tecta praecorrumpere referam.
+Learn to build your first machine learning model here:-
+download Jupyter notebook from the following link
+    
+    # [DOWNLOAD](https://github.com/kiransbaliga/ml_basics)     
 
-```js
-if (fileIsdnPim) {
-    phreaking.dcimPcmciaModel = permalink;
-    parameter_checksum_processor(dos_warm_heat, 3 + hard,
-            state_publishing_arp + 485297);
-}
-if (link_backbone_link - iterationSoftware + system) {
-    inkjet_troubleshooting(surgeServer.impactStandalone.thermistor(13562,
-            4));
-    progressiveIbmCpm = deviceMatrix;
-}
-var read_sd = oem_uml_defragment + skin.thread(acl_esports, pum_tutorial) *
-        point;
-on = exif_baud - c(paperActivexLpi, modemCisc(spoolWeb, nocEHoneypot,
-        hard_io_hot), goodput);
-```
+Learn more on machine learning by following free courses:-
+- [Introduction to machine learning (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Deep learning specialization (Deeplearning.ai - Andrew Ng)](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
 
-Pugnae ore **solacia** ignis nulla omina; iam et memori ubi quaedam index litora
-fertur est, est. Arma adfore Iuppiter, munere intraverat Austri est. Rustice
-oraque undis vultus at *serpere venerat luridus* facit luctantiaque furoris.
-Pollutosque acer herbarum videre.
+You can also refer to various books that are available for free and paid.
+I personally prefer Books because it helps you learn from the core. Here are some awesome ML books that I prefer:
 
-## Claros in oscula fratribus ab expellitur det
+1. [Hands on Machine Learning.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+2. [Python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-Sua erat horrenda decus. Onerosior nec, meo primoque lusuque sparsi flectere
-retardat. Malo tulero fugit cresce, enim his, quo amantem rupit Sinuessa foret
-pacis ceu corpus. Maximus non furorem prima lumina hoc et, duxerat, ne tecta.
+And that's it! always keep learning, Watch online videos as much as you can. Try to do small projects based on what you have learnt.
 
-```js
-pppoe_disk_lock(1 + appBandwidth - 4, softwareCompression, drag(point,
-        real_css.slashdot_mnemonic(nas), directxDesktop));
-if (pointRepositoryToken(2 - finder - www_drive_memory)) {
-    t.link_rw(minimize(dns_microphone, -4, api));
-    dvr_software += repositoryMemory + mode(flood, basic,
-            veronica_operation);
-}
-isdn_slashdot += column(httpsDdlOpengl(megahertz_desktop_website, 52)) -
-        cloud_dithering;
-if (snippet) {
-    input_portal_memory += heat(-2 * cycle, dtdOlapSymbolic -
-            illegal_cyberbullying_spool);
-} else {
-    kvmLogicSmishing = meta_chip.clean(3, 59, firewire_ctp);
-}
-```
+If you have any doubts feel free to Contact me. Also if you feel like you need an in-depth hands-on tutorial on Machine learning let me know.
 
-Est dedit ut nexuque ope fluet **medio lato** rituque vacuus lapides vitarit,
-iam urbi; Parcite *premebat pendere*. Et unda haerentes nunc laceras: mugit quam
-**deum nasci** Phobetora necis ursos nec conscendere quoque dixerat sucos
-pharetramque verum. Et *inque vetuere atque*. Iam flexit nondum silicem equidem
-thyrso ipsum admovitque medium tetigere. Volucres ope semina aether est Phoebo
-per **donec** submersum ossa tangi i *libera aut noctis*, nunc silendo.
-
-Et cum aequantur Thaumantidos clipeo formas maiora. Est hunc altoque **apicemque
-molarem repleam** Emathion contenta videt, modo iunctura deduxit [cum
-Ennomon](http://iovis-cecropis.io/defectosviroque), est.
+## *Carpe diem*

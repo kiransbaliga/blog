@@ -1,77 +1,75 @@
 ---
-title: Dederis faciem
-tags: tag1, tag2, tag3
+title: Getting Started with Github!
+tags: coding, Github
 category: Getting started
-excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
-created: 2019-02-05
-image: ./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg
-image_caption: Photo by Luasz Szmigiel on Unsplash
+excerpt: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git....
+created: 2021-05-20
+image: ./images/gh-img.jpg
 author: author2
 featured: true
 ---
+> ## What is Git?
 
-## Loci ego fuit
+Simply put, **Git** is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 
-Lorem markdownum tollere. *Qua opes egentes* cur, et trunca carpserat
-tulitquemuneris foedumque patriumque pisces vices sed eadem quam! **Cupidinis
-nostro Issen**; pinus cumulo tanget ego **aera dea** fugientem fortia publica
-cum, ipsum.
+For eg:- When you collaborate with others there might be multiple changes in a same file. Using git we can track the changes and merge them accordingly so that the code as a whole will make sense.
+> ## What is Github?
 
-## Terrae sic nunc crinem violaeque armaque
+ **GitHub** is a provider of Internet hosting for software development and version control using **Git**. It offers the distributed version control and source code management functionality of **Git**, plus its own features.
 
-Nec ego amittere quam. Triones ales fibras Mavortis proceres secutis saltus.
-Ventis istis fuit colubris facinus, habentem. Iam fidum **dis radices adiit**
-nati servat procorum patefecit suadet Victoria grates per [caede
-torpet](http://cervice.com/), labens his.
+![img](./images/gh-bg.png) 
 
-Ast risere exit molli flebat spernimur semper parvae, vultibus reposco, exemplo?
-Quem blandis erat mutantur ferox, conveniunt procorum Aeacides nepotum dicere
-**iter** solet virgamque monte contraria dedit dant.
+> # Getting Started
 
-## Et suis seposuit
+We are gonna use *Github-desktop* which will easily allow us to get started with version control, which offers a *Graphical User Interface*(GUI) instead of the traditional *Command line interface*(CLI).
 
-> Hanc nisi accipit passim dictos proceres, mare quaque, capacibus in munera
-> natalibus libido. Levis servabant tecum opes tuta reposco, unus domus; mirum, ad
-> gruem arsit monimenta traxisse. 
+you can download *Github-desktop* from [here](https://desktop.github.com/).
 
-Regisque refugam, quicquam manus sanguine mane
-feretur rupta, me cernis firmat! Cingebant postquam offensasque manes totaque
-dabat, quae et bimembres [adeunt](http://meo.org/suo-livor.html) Medea atque.
-Dictis irascentemque solent adfuit regionibus raptore parva languida ad quod
-Acheloe fecere.
+> ## Creating a Github Account
+
+Since were are gonna use **Github** we will need to register for an account at [**GitHub**](https://github.com) if we don’t already have one.
+
+> ## Text Editors
+
+To write in plain text we want to use a text editor. There are a huge number of free and paid text editors available in the internet. I recommend using **VS Code**. It is an *open source* code editor with several integrations which makes it powerful along with lots of extensions that are available.
+
+You can dowload *VS Code* from [here](https://code.visualstudio.com/). 
+
+
+
+> ### Open Github-desktop
+
+- When you open for the first time you will be required to Login.
+- Click on file -> create new repository OR click on clone repository option to clone from someother repository that is on **Github**.
+![img](./images/0.png)
+- Choose the path to the folder where you want create the files.
+![img](./images/1.png)
+- Click on create new repository
+- Click on open on VS Code option
+
+
+> ### Fire up VS Code
+
+From the welcome screen select on new folder option.
+
+![img-vscode](./images/gh-3.png)
+
+Create a new file and type something in there.
 
 ```
-  var blacklistSystem = 16 + graphicVisualPhishing / textRawOpen;
-  if (folderVirtual(pNameWaveform.osi(null, kerning_power_flowchart, 2),
-          -5)) {
-      file_viral.opacity(python_mouse_memory);
-      doubleUnicode = pop_cyberspace_pipeline.windows.express(
-              framework_card_in + xp_state_ospf, stackVpi + router_control,
-              21);
-      ispLaser.antivirus(page_animated_row);
-  } else {
-      dualExcel.switch += codePci + language_cmos;
-      tokenCircuit += fi_ipv_bar;
-  }
-  mms_overwrite_disk.realityBitRam.fiosFile(driveDiskTouchscreen,
-          wrapSymbolicPersonal - phishing_browser + gigoAntivirus,
-          internalRawOptical);
-  driverDOem.station_cyberbullying.smmAddress(4);
-  binTruncateSerp.trojan /= matrix_digital_plagiarism;
+hello world!
+this is awesome!
+
 ```
 
-## Sagittas ille leoni
+- Go back to *Github-Desktop*
+![img](./images/4.png)
+- Enter a commit message so that you can record a message that shows what all updates you did.
+- Click on push to save changes to **Github**
+![img](./images/5.png)
 
-Ministret est neque non. Nate sus paulatim patefecit illo; vocem ulciscitur,
-obliquantem dilexit rursusque luctatur quis.
+And that's it for getting started with Github.
+I might seem complex but after a while you will get in a hang of it!
+Let me know if you have any queries!
 
-## Quod rear pugnabam primos de numen
-
-Deiphobum praesentem Ilithyiam gutturaque opera, ut mea geniti laevane, arsit
-tamen. Lux est in dextris etiam, per, mihi tenens easdem, tempus, indoluit. Quos
-at onus, ubi litora quod per hospitiique totiens, pulcherrime quod in copia,
-quod. Et modo Cycladas? Figat talibus, per plurima Aeacideia doluere in
-Tisiphone mactas vires **concipias oculis**?
-
-Est dolore vixque torquetur femina scelus in aequore vivacemque vittis. Fuit
-vivat diversa! Aeolidis tangit inhaeret reddunt quid ferus?
+## *carpe diem*
