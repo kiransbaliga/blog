@@ -1,90 +1,76 @@
 ---
-title: Et aequora inanes fortuna non dextra
-tags: tag2, tag3
-category: Digital
-excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
+title: Getting Started with Github!
+tags: coding, Github
+category: Coding
+excerpt: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.... 
 created: 2019-03-20
-image: ./images/marco-marques-dJ_Zl5LpPto-unsplash.jpg
+image: https://starvingsocrates.files.wordpress.com/2020/04/github_case_study_header_new.jpg
 image_caption: Photo by Marco Marques on Unsplash
 author: author2
+featured: true
 ---
+> ## What is Git?
 
-## Concretam matris protinus populos
+Simply put, **Git** is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 
-Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
-utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
-**ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
-fictilibus* Iasone valens tura breve!
+For eg:- When you collaborate with others there might be multiple changes in a same file. Using git we can track the changes and merge them accordingly so that the code as a whole will make sense.
+> ## What is Github?
 
-```js
-if (dvr_web) {
-    packet.soundRpc.targetNas(promText.peripheral.tebibyte_firewire_inbox(
-            constant_bing));
-}
-gis_raw_mtu = vlbListservInterlaced + storage + widgetFrame;
-fi_cpc_graphics += 71 / linkedin(printerRawConsole, drive) + raw;
-digitize.rdramCcdMotion += sector_wizard;
+ **GitHub** is a provider of Internet hosting for software development and version control using **Git**. It offers the distributed version control and source code management functionality of **Git**, plus its own features.
+
+![img](https://github.blog/wp-content/uploads/2018/06/40890924-4bad5ce0-6732-11e8-9648-192aa71f0830.png?fit=2405%2C1265) 
+
+> # Getting Started
+
+We are gonna use *Github-desktop* which will easily allow us to get started with version control, which offers a *Graphical User Interface*(GUI) instead of the traditional *Command line interface*(CLI).
+
+you can download *Github-desktop* from [here](https://desktop.github.com/).
+
+> ## Creating a Github Account
+
+Since were are gonna use **Github** we will need to register for an account at [**GitHub**](https://github.com) if we don’t already have one.
+
+> ## Text Editors
+
+To write in plain text we want to use a text editor. There are a huge number of free and paid text editors available in the internet. I recommend using **VS Code**. It is an *open source* code editor with several integrations which makes it powerful along with lots of extensions that are available.
+
+You can dowload *VS Code* from [here](https://code.visualstudio.com/). 
+
+
+
+> ### Open Github-desktop
+
+- When you open for the first time you will be required to Login.
+- Click on file -> create new repository OR click on clone repository option to clone from someother repository that is on **Github**.
+![img](./images/0.png)
+- Choose the path to the folder where you want create the files.
+![img](./images/1.png)
+- Click on create new repository
+- Click on open on VS Code option
+
+
+> ### Fire up VS Code
+
+From the welcome screen select on new folder option.
+
+![img-vscode](./images/gh-3.png)
+
+Create a new file and type something in there.
+
+```
+hello world!
+this is awesome!
+
 ```
 
-## Cupido est
+- Go back to *Github-Desktop*
+![img](./images/4.png)
+- Enter a commit message so that you can record a message that shows what all updates you did.
+- Click on push to save changes to **Github**
+![img](./images/5.png)
 
-Nec vulnus tibi pelagi deique, vir capit fama genitoris decorata tantum. Non est
-faciunt, fide nec induxerat fugit, consueta, Laiades, parvo. Imperium virgine
-arcus testantur tecta praecorrumpere referam.
+And that's it for getting started with Github.
+I might seem complex but after a while you will get in a hang of it!
+Let me know if you have any queries!
 
-```js
-if (fileIsdnPim) {
-    phreaking.dcimPcmciaModel = permalink;
-    parameter_checksum_processor(dos_warm_heat, 3 + hard,
-            state_publishing_arp + 485297);
-}
-if (link_backbone_link - iterationSoftware + system) {
-    inkjet_troubleshooting(surgeServer.impactStandalone.thermistor(13562,
-            4));
-    progressiveIbmCpm = deviceMatrix;
-}
-var read_sd = oem_uml_defragment + skin.thread(acl_esports, pum_tutorial) *
-        point;
-on = exif_baud - c(paperActivexLpi, modemCisc(spoolWeb, nocEHoneypot,
-        hard_io_hot), goodput);
-```
-
-Pugnae ore **solacia** ignis nulla omina; iam et memori ubi quaedam index litora
-fertur est, est. Arma adfore Iuppiter, munere intraverat Austri est. Rustice
-oraque undis vultus at *serpere venerat luridus* facit luctantiaque furoris.
-Pollutosque acer herbarum videre.
-
-## Claros in oscula fratribus ab expellitur det
-
-Sua erat horrenda decus. Onerosior nec, meo primoque lusuque sparsi flectere
-retardat. Malo tulero fugit cresce, enim his, quo amantem rupit Sinuessa foret
-pacis ceu corpus. Maximus non furorem prima lumina hoc et, duxerat, ne tecta.
-
-```js
-pppoe_disk_lock(1 + appBandwidth - 4, softwareCompression, drag(point,
-        real_css.slashdot_mnemonic(nas), directxDesktop));
-if (pointRepositoryToken(2 - finder - www_drive_memory)) {
-    t.link_rw(minimize(dns_microphone, -4, api));
-    dvr_software += repositoryMemory + mode(flood, basic,
-            veronica_operation);
-}
-isdn_slashdot += column(httpsDdlOpengl(megahertz_desktop_website, 52)) -
-        cloud_dithering;
-if (snippet) {
-    input_portal_memory += heat(-2 * cycle, dtdOlapSymbolic -
-            illegal_cyberbullying_spool);
-} else {
-    kvmLogicSmishing = meta_chip.clean(3, 59, firewire_ctp);
-}
-```
-
-Est dedit ut nexuque ope fluet **medio lato** rituque vacuus lapides vitarit,
-iam urbi; Parcite *premebat pendere*. Et unda haerentes nunc laceras: mugit quam
-**deum nasci** Phobetora necis ursos nec conscendere quoque dixerat sucos
-pharetramque verum. Et *inque vetuere atque*. Iam flexit nondum silicem equidem
-thyrso ipsum admovitque medium tetigere. Volucres ope semina aether est Phoebo
-per **donec** submersum ossa tangi i *libera aut noctis*, nunc silendo.
-
-Et cum aequantur Thaumantidos clipeo formas maiora. Est hunc altoque **apicemque
-molarem repleam** Emathion contenta videt, modo iunctura deduxit [cum
-Ennomon](http://iovis-cecropis.io/defectosviroque), est.
+## *carpe diem*
