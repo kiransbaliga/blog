@@ -59,7 +59,8 @@ Well IEEE MACE SB played a very important role in my life. I received so much op
 
 
 
-Since I loved coding so much, me along with my friends, started working on projects and entered few competitions. I started off and built a portfolio, which you can see [here](https://kiransbaliga.me). I then built a blog using Gridsome, which you are reading from right now. I am currently working on a spotify alternative called Moosik, where you can hear music ad free with all the recomendations and AI as spotify. Once I got confident enough, I started to work freelance with [Athul](https:athuljohn). We worked on a few projects and it was awesome. Some wanted us to build a very complicated app almost for free, while some were legit opportunities.
+Since I loved coding so much, me along with my friends, started working on projects and entered few competitions. I started off and built a portfolio, which you can see <span style="color:blue">[here](https://kiransbaliga.me)</span>. I then built a blog using Gridsome, which you are reading from right now. I am currently working on a spotify alternative called Moosik, where you can hear music ad free with all the recomendations and AI as spotify. Once I got confident enough, I started to work freelance with <span style="color:blue">
+[Athul](https:athuljohn)</span>. We worked on a few projects and it was awesome. Some wanted us to build a very complicated app almost for free, while some were legit opportunities.
 
 
 >So my point is...

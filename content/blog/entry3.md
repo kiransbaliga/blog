@@ -2,7 +2,7 @@
 
 title: Getting Started With Machine Learning from Scratch!
 tags: AI, ml
-category: Digital
+category: Getting started
 excerpt: Machine learning is the idea of a machine or a computer doing a task without being..
 created: 2021-05-20
 image: ./images/ml-bg.png
@@ -33,25 +33,27 @@ To get started with Machine learning basic programming knowledge is required.
 If you don't have experiences don't worry! It's not that hard and you can start anytime!
 Here are the basic requirements:-
 
-- Basic Python programming skills : You can start learning python [here](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- Basic Python programming skills : You can start learning python <span style="color:blue"> [here](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/) </span>
+
 - Python basics on NumPy, pandas and matplotlib modules.
 
 > Numpy
 
-- NumPy is the fundamental package for scientific computing in Python. You can learn the basics of NumPy [here.](https://www.w3schools.com/python/numpy/numpy_getting_started.asp).
+- NumPy is the fundamental package for scientific computing in Python. You can learn the basics of NumPy <span style="color:blue"> [here.](https://www.w3schools.com/python/numpy/numpy_getting_started.asp). </span>
 
 > Pandas
 
-- Pandas is a python module for data analysis and manipulation. Learn the basics of Pandas[here.](https://www.w3schools.com/python/numpy_getting_started.asp).
+- Pandas is a python module for data analysis and manipulation. Learn the basics of Pandas <span style="color:blue"> [here.](https://www.w3schools.com/python/numpy_getting_started.asp). </span>
 
 > MatPlotLib
 
-- matplotlib is a python module for visualizing the data. Learn basics of matplotlib [here.](https://www.w3schools.com/python/matplotlib_intro.asp)
+- matplotlib is a python module for visualizing the data. Learn basics of matplotlib <span style="color:blue"> [here.](https://www.w3schools.com/python/matplotlib_intro.asp) </span>
 
 > Jupyter
 
 Now that we are all set up and we are ready to start.
 first, we need to install the required modules in python for ML.
+
 installing Jupyter notebook :-
 
 The Jupyter Notebook is an open-source web application that allows you to create and
@@ -60,6 +62,8 @@ Share documents that contain live code, equations, visualizations and narrative 
 ```
 python -m pip install jupyterlab
 ```
+
+
 ```
 python -m pip install notebook
 ```  
@@ -78,17 +82,21 @@ and that's it! Just wait for some moment and installation will be done!
 Learn to build your first machine learning model here:-
 download Jupyter notebook from the following link
     
-    # [DOWNLOAD](https://github.com/kiransbaliga/ml_basics)     
+# <span style="color:red"> [DOWNLOAD](https://github.com/kiransbaliga/ml_basics) </span>
 
 Learn more on machine learning by following free courses:-
-- [Introduction to machine learning (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-- [Deep learning specialization (Deeplearning.ai - Andrew Ng)](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
+- <span style="color:blue"> [Introduction to machine learning (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) </span>
+
+- <span style="color:blue"> [Deep learning specialization (Deeplearning.ai - Andrew Ng)](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) </span>
+
 
 You can also refer to various books that are available for free and paid.
 I personally prefer Books because it helps you learn from the core. Here are some awesome ML books that I prefer:
 
-1. [Hands on Machine Learning.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-2. [Python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+1. <span style="color:blue"> [Hands on Machine Learning.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) </span>
+
+2. <span style="color:blue"> [Python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) </span>
+
 
 And that's it! always keep learning, Watch online videos as much as you can. Try to do small projects based on what you have learnt.
 
