@@ -27,8 +27,10 @@ Before you start getting right into it make sure your basic concepts are clear. 
 
 So lets start!
 
-> # <span style="color:blue">[LEARN DSA](https://github.com/kiransbaliga/DSA-with-leetcode/blob/main/LeetCode.ipynb) </span> click on the link to follow to my github repository for an interactive python notebook and updated problems and concepts.
+> # <span style="color:red">[LEARN DSA](https://github.com/kiransbaliga/DSA-with-leetcode/blob/main/LeetCode.ipynb) </span> 
 
+
+## click on the above link to follow to my github repository for an interactive python notebook and updated problems and concepts.
 
 So what you waiting for? 
 Come on sieze this opportunity!!
