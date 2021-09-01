@@ -41,5 +41,21 @@
     "@fortawesome/vue-fontawesome": "^2.0.2",
     "gridsome-plugin-tailwindcss": "^4.1.1",
     "tailwindcss-dark-mode": "^1.1.7"
-  }
+  },
+  "description": "---",
+  "version": "1.0.0",
+  "main": "gridsome.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiransbaliga/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiransbaliga/blog/issues"
+  },
+  "homepage": "https://github.com/kiransbaliga/blog#readme"
 }
