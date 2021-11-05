@@ -1,3 +1,14 @@
+---
+title: 3 things to note when you design an App
+tags: UI/UX, Design
+category: Random
+excerpt: we practice by building what we learned. Let it be a simple web app or an mobile app. If you just put a little extra effort to make your design better with these tips, your app is going to standout.
+created: 2021-11-5
+image: ./images/design.jpg
+image_caption: yolo
+author: author2
+featured: true
+---
 We all are self taught developer. We all use different methods.. but for sure we practice by building what we learned. Let it be a simple web app or an mobile app. If you just put a little extra effort to make your design better with these tips, your app is going to standout.
 
 ### let me demonstrate...
